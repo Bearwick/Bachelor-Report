@@ -1,2 +1,0 @@
-# Bachelor-Report
-Bachelor Report
